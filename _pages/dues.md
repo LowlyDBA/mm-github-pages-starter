@@ -1,5 +1,5 @@
 ---
-title: Dues
+title: "Dues"
 layout: single
 permalink: /dues/
 ---
