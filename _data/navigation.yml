@@ -1,14 +1,10 @@
 # main links
 main:
-  - title: "Home"
-    url: "#"
   - title: "Donate Now"
     url: "#"
   - title: "Get Involved"
     url: "#"
   - title: "Bylaws"
-    url: "#"
-  - title: "Undergraduate Site"
     url: "#"
   - title: "Contact Us"
     url: "#"
