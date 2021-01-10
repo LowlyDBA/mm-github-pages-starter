@@ -11,8 +11,8 @@ permalink: /contact-us/
 You may contact any member of the Alumni Organization Executive Council
 at their respective email address.
 
-| Name | Position | <i class='fas fa-fw fa-envelope-square'></i> |
-| ---- | -------- | ---------------------------------------- |
+| Name | Position | Email |
+| ---- | -------- | ----- |
 | Jeff Flagg | Secretary | Secretary [at] thetapsi.org
 | Victor Santiago | President | President [at] thetapsi.org
 | Chaim Sanders | Treasurer | Treasurer [at] thetapsi.org

@@ -9,7 +9,7 @@ How can you become more involved?
 
 ## Online
 
-If you need an invite to any of the below groups, please [send an email](/contact-us)
+If you need an invite to any of the below groups, please [send an email](../contact-us)
 to the Secretary.
 
 * <i class='fab fa-linkedin'></i> [LinkedIn](https://www.linkedin.com/groups/6544800/)
