@@ -12,10 +12,10 @@ How can you become more involved?
 If you need an invite to any of the below groups, please [send an email](/contact-us)
 to the Secretary.
 
-* [<i class='fab fa-linkedin'></i> LinkedIn](https://www.linkedin.com/groups/6544800/)
-* [<i class='fab fa-facebook-square'></i> Facebook](https://www.facebook.com/groups/116095031796783/)
-* [<i class='fab fa-fw fa-slack'></i> Slack](https://pkp-thetapsi.slack.com)
-* [<i class='fab fa-fw fa-discord'></i> Discord](#)
+* <i class='fab fa-linkedin'></i> [LinkedIn](https://www.linkedin.com/groups/6544800/)
+* <i class='fab fa-facebook-square'></i> [Facebook](https://www.facebook.com/groups/116095031796783/)
+* <i class='fab fa-fw fa-slack'></i> [Slack](https://pkp-thetapsi.slack.com)
+* <i class='fab fa-fw fa-discord'></i> [Discord](#)
 
 As an alumni in good standing, you are welcome to have a ThetaPsi.org mailing
 address, free of charge.
