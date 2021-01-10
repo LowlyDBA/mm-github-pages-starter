@@ -7,9 +7,9 @@ main:
   - title: "Bylaws"
     url: "#"
   - title: "Contact Us"
-    url: "#"
+    url: "/contact-us"
   - title: "Pay Dues"
-    url: "dues"
+    url: "/dues"
   # - title: "About"
   #   url: https://mmistakes.github.io/minimal-mistakes/about/
   # - title: "Sample Posts"

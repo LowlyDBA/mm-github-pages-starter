@@ -127,6 +127,9 @@ footer:
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
       url: "https://www.facebook.com/groups/116095031796783/"
+    - label: "Slack"
+      icon: "fab fa-fw fa-slack"
+      url: "https://pkp-thetapsi.slack.com"
 
 
 
