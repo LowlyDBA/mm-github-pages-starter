@@ -20,7 +20,7 @@ at their respective email address.
 | Adam Aldrow | Chapter Liaison | Liaison [at] thetapsi.org
 
 Interested in showing your colors online?
-Join our [online groups](/get-involved/#online)
+Join our [online groups](get-involved/#online)
 to stay in touch.
 
 ## Undergraduate
