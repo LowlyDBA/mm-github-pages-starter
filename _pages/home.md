@@ -31,7 +31,7 @@ feature_row:
     excerpt: "Check out our governing bylaws."
     url: "/assets/pdf/Theta_Psi_Alumni_Chapter_Bylaws.pdf"
     btn_class: "btn--primary"
-    btn_label: "Download"      
+    btn_label: "<i class='fas fa-download'></i> Download"      
 ---
 
 {% include feature_row %}
