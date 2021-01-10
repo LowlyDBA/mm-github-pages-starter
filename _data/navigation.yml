@@ -12,7 +12,7 @@ main:
     url: "/dues"
   - title: "Member Directory"
     url: "#"
- - title: "Bylaws"
+  - title: "Bylaws"
     url: "/assets/pdf/Theta_Psi_Alumni_Chapter_Bylaws.pdf"
   # - title: "About"
   #   url: https://mmistakes.github.io/minimal-mistakes/about/
