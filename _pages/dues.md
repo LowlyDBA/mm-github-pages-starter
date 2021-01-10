@@ -1,5 +1,7 @@
 ---
+title: Dues
 layout: single
+permalink: /dues/
 ---
 
 # Dues
