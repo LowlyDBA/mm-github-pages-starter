@@ -18,7 +18,7 @@ feature_row:
     url: "#"
     btn_class: "btn--primary"
     btn_label: "Learn more"
-  - #image_path: /assets/images/mm-responsive-feature.png
+  - image_path: 
     alt: "News"
     title: "<i class="fa fa-newspaper-o" aria-hidden="true"></i> News"
     excerpt: "Keep up to date on the latest alumni chapter news."
