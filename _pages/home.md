@@ -13,7 +13,7 @@ excerpt: >
 feature_row:
   - alt: "Get Involved"
     title: "Get Involved"
-    #image_path: /assets/images/mm-customizable-feature.png
+    image_path: /assets/images/mm-customizable-feature.png
     excerpt: "Our Fraternity has a strong tradition of alumni involvement. How can you become more involved?"
     url: "#"
     btn_class: "btn--primary"
