@@ -5,6 +5,7 @@ permalink: /contact-us/
 ---
 
 ## 2021 Alumni Chapter Executive Council
+
 <img src="../assets/images/2021_exec_council.png"/>
 
 You may contact any member of the Alumni Organization Executive Council
@@ -24,8 +25,8 @@ Please e-mail the Secretary for access requests.
 
 If you are in the area, the Theta Psi chapter house can be found at:
 
-<em>
+Pi Kappa Phi Fraternity
+
 624 Charters Way
 
 Rochester, NY 14623
-</em>

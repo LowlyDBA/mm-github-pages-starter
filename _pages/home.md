@@ -22,14 +22,14 @@ feature_row:
     alt: "News"
     title: "News"
     excerpt: "Keep up to date on the latest alumni chapter news."
-    url: "#"
+    url: "/news/"
     btn_class: "btn--primary"
     btn_label: "Learn more"
   - image_path: 
     alt: "Bylaws"
     title: "Bylaws"
     excerpt: "Check out our governing bylaws."
-    url: "#"
+    url: "/assets/pdf/Theta_Psi_Alumni_Chapter_Bylaws.pdf"
     btn_class: "btn--primary"
     btn_label: "Learn more"      
 ---

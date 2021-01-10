@@ -16,13 +16,9 @@ chapter that we all care for so deeply.
 
 Membership dues are as follows (yearly subscription):
 
-Under 30: $25
-
-Over 30: $50
+| Category | Dues | Pay |
+| -------- | ---- | --- |
+| Under 30 | $25  | [![PayPal](https://www.paypalobjects.com/webstatic/en_US/i/buttons/pp-acceptance-small.png)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=BZ5WGAM64LKSW) |
+| Over 30  | $50  | [![PayPal](https://www.paypalobjects.com/webstatic/en_US/i/buttons/pp-acceptance-small.png)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=XBQCQAYCG245J) |
 
 Please make checks payable to: Theta Psi Alumni Chapter, Inc.
-
-Renew (one time only):
-
-* Level 1 ($25)
-* Level 2 ($50)
