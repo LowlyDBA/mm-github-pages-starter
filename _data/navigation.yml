@@ -3,7 +3,7 @@ main:
   - title: "Donate Now"
     url: "#"
   - title: "Get Involved"
-    url: "#"
+    url: "/get-involved"
   - title: "Bylaws"
     url: "/assets/pdf/Theta_Psi_Alumni_Chapter_Bylaws.pdf"
   - title: "Contact Us"

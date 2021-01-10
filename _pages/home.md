@@ -15,7 +15,7 @@ feature_row:
     alt: "Get Involved"
     title: "Get Involved"
     excerpt: "Our Fraternity has a strong tradition of alumni involvement. How can you become more involved?"
-    url: "#"
+    url: "/get-involved"
     btn_class: "btn--primary"
     btn_label: "Learn more"
   - image_path: 
@@ -24,14 +24,14 @@ feature_row:
     excerpt: "Keep up to date on the latest alumni chapter news."
     url: "/news/"
     btn_class: "btn--primary"
-    btn_label: "Learn more"
+    btn_label: "See the latest"
   - image_path: 
     alt: "Bylaws"
     title: "Bylaws"
     excerpt: "Check out our governing bylaws."
     url: "/assets/pdf/Theta_Psi_Alumni_Chapter_Bylaws.pdf"
     btn_class: "btn--primary"
-    btn_label: "Learn more"      
+    btn_label: "Download"      
 ---
 
 {% include feature_row %}
