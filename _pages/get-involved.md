@@ -9,17 +9,17 @@ How can you become more involved?
 
 ## Online
 
-Every Alumni should have been invited to join the [Theta Psi Alumni Facebook
-group](https://www.facebook.com/groups/116095031796783/).
-If you need an invitation, contact the Alumni Secretary [at] secretary@thetapsi.org.
+If you need an invite to any of the below groups, please [send an email](/contact-us)
+to the Secretary.
+
+* <i class='fab fa-linkedin'></i>[LinkedIn Group](https://www.linkedin.com/groups/6544800/)
+* <i class='fab fa-facebook-square'></i> [Facebook Group](https://www.facebook.com/groups/116095031796783/)
+* <i class='fab fa-fw fa-slack'></i> [Slack](https://pkp-thetapsi.slack.com)
+* <i class='fab fa-fw fa-discord'></i> Discord
 
 As an alumni in good standing, you are welcome to have a ThetaPsi.org mailing
 address, free of charge. Additionally, there are numerous positions and roles
 that you may join in order to help our organization grow and prosper.
-
-Additionally, we have a [LinkedIn group](https://www.linkedin.com/groups/6544800/).
-This group can help you find brothers in your field or serve as a good starting
-point for brothers that are looking for a job.
 
 ## In Person
 
