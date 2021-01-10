@@ -4,8 +4,6 @@ layout: single
 permalink: /dues/
 ---
 
-# Dues
-
 As an initiated member of Pi Kappa Phi you took a vow to be a brother for life.
 Just because you’ve finished your undergraduate career doesn’t mean there are no
 more dues. Ironically, now that you have an increased income your dues are
