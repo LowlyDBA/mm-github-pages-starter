@@ -24,7 +24,7 @@ feature_row:
     excerpt: "Keep up to date on the latest alumni chapter news."
     url: "/news/"
     btn_class: "btn--primary"
-    btn_label: "<i class='fas fa-newspaper-o'></i> See the latest"
+    btn_label: "<i class='fas fa-newspaper'></i> See the latest"
   - image_path: 
     alt: "Bylaws"
     title: "Bylaws"
