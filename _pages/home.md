@@ -17,14 +17,14 @@ feature_row:
     excerpt: "Our Fraternity has a strong tradition of alumni involvement. How can you become more involved?"
     url: "/get-involved"
     btn_class: "btn--primary"
-    btn_label: "Learn more"
+    btn_label: "<i class='fas fa-users'></i> Learn more"
   - image_path: 
     alt: "News"
     title: "News"
     excerpt: "Keep up to date on the latest alumni chapter news."
     url: "/news/"
     btn_class: "btn--primary"
-    btn_label: "See the latest"
+    btn_label: "<i class='fas fa-newspaper-o'></i> See the latest"
   - image_path: 
     alt: "Bylaws"
     title: "Bylaws"
