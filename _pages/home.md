@@ -20,7 +20,7 @@ feature_row:
     btn_label: "Learn more"
   - image_path: 
     alt: "News"
-    title: "<i class="fa fa-newspaper-o" aria-hidden="true"></i> News"
+    title: "News"
     excerpt: "Keep up to date on the latest alumni chapter news."
     url: "#"
     btn_class: "btn--primary"
