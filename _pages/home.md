@@ -11,21 +11,21 @@ header:
 excerpt: >
   The Theta Psi Alumni chapter of Pi Kappa Phi at RIT.
 feature_row:
-  - image_path: /assets/images/mm-customizable-feature.png
+  - image_path: 
     alt: "Get Involved"
     title: "Get Involved"
     excerpt: "Our Fraternity has a strong tradition of alumni involvement. How can you become more involved?"
     url: "#"
     btn_class: "btn--primary"
     btn_label: "Learn more"
-  - image_path: /assets/images/mm-responsive-feature.png
+  - image_path: 
     alt: "News"
     title: "News"
     excerpt: "Keep up to date on the latest alumni chapter news."
     url: "#"
     btn_class: "btn--primary"
     btn_label: "Learn more"
-  - image_path: /assets/images/mm-free-feature.png
+  - image_path: 
     alt: "Bylaws"
     title: "Bylaws"
     excerpt: "Check out our governing bylaws."
